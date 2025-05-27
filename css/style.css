@@ -1,0 +1,6 @@
+.weather{
+    z-index: 4;
+    position: fixed;
+    top:40px;
+    right:10px;
+}
